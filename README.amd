@@ -1,0 +1,6 @@
+A Streamlit web application for the analysis of olympics dataset
+Used Original Dataset of Olympics from 1896 to 2016 with 134k rows and 15 columns
+Sport-wise, year-wise, and country-wise analyses, including comparisons and athlete-level
+insights, Visualized key metrics using Matplotlib and NumPy, making insights accessible through dynamic plots and
+filters.
+DATASETLINK: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
